@@ -1,5 +1,8 @@
 # Student Social Media Addiction Analysis & Prediction
-    
+<img width="1082" height="862" alt="image" src="https://github.com/user-attachments/assets/3f211c58-c5d3-410c-9282-7d3c9269ed45" />
+<img width="1522" height="642" alt="image" src="https://github.com/user-attachments/assets/fb14a20f-b4b5-41c8-bdf4-29ce64d47739" />
+
+
 ## Overview 
  
 This project analyzes and models social media addiction among students based on survey data. The workflow starts  with extensive data processing and feature engineering, then builds and compares multiple machine learning models to predict an "Addicted_Score" for each student.
