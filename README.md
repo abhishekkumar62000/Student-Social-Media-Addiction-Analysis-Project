@@ -1,6 +1,7 @@
 # Student Social Media Addiction Analysis & Prediction
 <img width="1082" height="862" alt="image" src="https://github.com/user-attachments/assets/3f211c58-c5d3-410c-9282-7d3c9269ed45" />
 <img width="1522" height="642" alt="image" src="https://github.com/user-attachments/assets/fb14a20f-b4b5-41c8-bdf4-29ce64d47739" />
+<img width="528" height="595" alt="image" src="https://github.com/user-attachments/assets/3f0afebb-5adb-4c0e-bdd8-b2490c24df44" />
 
 
 ## Overview 
