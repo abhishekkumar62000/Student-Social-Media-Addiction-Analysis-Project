@@ -5,7 +5,7 @@
 
 
 ## Overview 
- 
+  
 This project analyzes and models social media addiction among students based on survey data. The workflow starts  with extensive data processing and feature engineering, then builds and compares multiple machine learning models to predict an "Addicted_Score" for each student.
 
 ## Dataset
