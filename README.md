@@ -1,4 +1,3 @@
-# Student-Social-Media-Addiction-Analysis-Project
 # Student Social Media Addiction Analysis & Prediction
 
 ## Overview
