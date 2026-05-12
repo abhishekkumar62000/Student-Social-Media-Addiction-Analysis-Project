@@ -4,7 +4,7 @@
 <img width="528" height="595" alt="image" src="https://github.com/user-attachments/assets/3f0afebb-5adb-4c0e-bdd8-b2490c24df44" />
 
  
-## Overview
+## Overview 
 This project analyzes and models social media addiction among students based on survey data. The workflow starts  with extensive data processing and feature engineering, then builds and compares multiple machine learning models to predict an "Addicted_Score" for each student.
  
 ## Dataset 
