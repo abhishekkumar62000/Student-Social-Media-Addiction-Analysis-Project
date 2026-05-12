@@ -8,7 +8,7 @@
 This project analyzes and models social media addiction among students based on survey data. The workflow starts  with extensive data processing and feature engineering, then builds and compares multiple machine learning models to predict an "Addicted_Score" for each student.
 
 ## Dataset
-   
+    
 - **Source:** `Students Social Media Addiction.csv` (contains 705 samples, 13 features per student)
 - Features include: social media usage patterns, sleep time, mental health score, frequency of conflicts over social media, and more.
 
